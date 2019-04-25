@@ -1,0 +1,322 @@
+democrats.txt
+2 Pair
+('on', 'twitter') 	 55
+('the', 'president') 	 20
+('trump', 'is') 	 18
+('white', 'house') 	 16
+('donald', 'trump') 	 14
+('hillary', 'clinton') 	 13
+('and', 'his') 	 12
+('for', 'a') 	 10
+('the', 'united') 	 10
+('united', 'states') 	 10
+3 Pair
+('the', 'united', 'states') 	 10
+('of', 'the', 'united') 	 5
+('the', 'white', 'house') 	 4
+('on', 'twitter', 'the') 	 4
+('merkley', 'on', 'twitter') 	 4
+('on', 'twitter', 'if') 	 4
+('jeff', 'merkley', 'on') 	 4
+('donald', 'trump', 'is') 	 4
+('a', 'member', 'of') 	 4
+('the', 'republican', 'party') 	 4
+4 Pair
+('of', 'the', 'united', 'states') 	 5
+('jeff', 'merkley', 'on', 'twitter') 	 4
+('sen', 'jeff', 'merkley', 'on') 	 3
+('joe', 'walsh', 'on', 'twitter') 	 3
+('chris', 'hayes', 'on', 'twitter') 	 3
+('not', 'the', 'same', '') 	 2
+('times', 'a', 'day', 'on') 	 2
+('schiff', 'for', 'a', 'president') 	 2
+('ways', 'and', 'means', 'committee') 	 2
+('pay', 'for', 'the', 'wall') 	 2
+
+
+socialism.txt
+2 Pair
+('trump', 'supporter') 	 27
+('they', 'are') 	 13
+('will', 'be') 	 11
+('a', 'trump') 	 11
+('thank', 'you') 	 10
+('the', 'world') 	 10
+('capitalism', '') 	 10
+('i', 'am') 	 9
+('have', 'been') 	 9
+('against', 'the') 	 9
+3 Pair
+('a', 'trump', 'supporter') 	 10
+('this', 'is', 'what') 	 5
+('on', 'this', 'day') 	 5
+('in', 'a', 'nutshell') 	 4
+('i', 'want', 'to') 	 4
+('thank', 'you', 'for') 	 4
+('the', 'united', 'states') 	 4
+('a', 'black', 'man') 	 4
+('meet', 'new', 'people') 	 4
+('some', 'of', 'the') 	 4
+4 Pair
+('in', 'a', 'nutshell', '') 	 4
+('trump', 'supporter', 'is', 'arrested') 	 3
+('on', 'this', 'day', 'in') 	 3
+('make', 'america', 'great', 'again') 	 3
+('a', 'trump', 'supporter', 'is') 	 3
+('motivated', 'homicide', 'incidents', 'committed') 	 2
+('the', 'dictatorship', 'of', 'the') 	 2
+('rightwing', 'terrorism', 'makes', 'up') 	 2
+('ideologically', 'motivated', 'homicide', 'incidents') 	 2
+('of', 'all', 'ideologically', 'motivated') 	 2
+
+
+liberal.txt
+2 Pair
+('donald', 'trump') 	 14
+('trump', 'is') 	 12
+('white', 'house') 	 11
+('trump', '') 	 11
+('fox', 'news') 	 11
+('roy', 'moore') 	 9
+('to', 'trump') 	 8
+('people', '') 	 8
+('the', 'most') 	 8
+('report', '') 	 8
+3 Pair
+('of', 'the', 'most') 	 4
+('one', 'of', 'the') 	 4
+('russia', 'probe', '') 	 3
+('just', 'a', 'reminder') 	 3
+('thats', 'enough', 'to') 	 3
+('brett', 'kavanaugh', '') 	 3
+('a', 'year', 'for') 	 3
+('trump', 'administration', 'over') 	 3
+('the', 'united', 'states') 	 3
+('alex', 'jones', '') 	 3
+4 Pair
+('one', 'of', 'the', 'most') 	 3
+('they', 'did', 'him', 'a') 	 2
+('did', 'him', 'a', 'favor') 	 2
+('for', 'healthcare', 'through', 'taxes') 	 2
+('list', 'of', 'suspected', 'leakers') 	 2
+('infowars', 'alex', 'jones', '') 	 2
+('just', 'a', 'reminder', 'that') 	 2
+('person', 'who', 'works', 'in') 	 2
+('to', 'recuse', 'himself', 'from') 	 2
+('the', 'white', 'house', 'is') 	 2
+
+
+greenparty.txt
+2 Pair
+('jill', 'stein') 	 142
+('green', 'party') 	 109
+('the', 'green') 	 52
+('bernie', 'sanders') 	 32
+('vote', 'for') 	 22
+('party', 'candidate') 	 19
+('third', 'party') 	 16
+('the', 'democratic') 	 15
+('for', 'a') 	 15
+('democratic', 'party') 	 15
+3 Pair
+('the', 'green', 'party') 	 45
+('green', 'party', 'candidate') 	 15
+('jill', 'stein', '') 	 11
+('candidate', 'jill', 'stein') 	 11
+('the', 'democratic', 'party') 	 10
+('for', 'jill', 'stein') 	 9
+('for', 'the', 'green') 	 9
+('dakota', 'access', 'pipeline') 	 9
+('jill', 'stein', 'is') 	 8
+('jill', 'stein', 'and') 	 8
+4 Pair
+('party', 'candidate', 'jill', 'stein') 	 7
+('for', 'the', 'green', 'party') 	 7
+('green', 'party', 'candidate', 'jill') 	 7
+('green', 'partys', 'jill', 'stein') 	 5
+('location', 'heights', 'room', '224') 	 5
+('of', 'the', 'green', 'party') 	 4
+('green', 'party', 'presidential', 'candidate') 	 4
+('jill', 'stein', 'for', 'president') 	 4
+('voting', 'for', 'jill', 'stein') 	 4
+('the', 'dakota', 'access', 'pipeline') 	 4
+
+
+communism.txt
+2 Pair
+('this', 'day') 	 19
+('the', 'ussr') 	 18
+('of', 'a') 	 17
+('the', 'soviet') 	 15
+('the', 'first') 	 15
+('communist', 'party') 	 14
+('a', 'lot') 	 14
+('day', 'in') 	 14
+('michael', 'parenti') 	 14
+('by', 'michael') 	 14
+3 Pair
+('on', 'this', 'day') 	 18
+('this', 'day', 'in') 	 14
+('by', 'michael', 'parenti') 	 12
+('a', 'lot', 'of') 	 12
+('the', 'soviet', 'union') 	 11
+('one', 'of', 'the') 	 9
+('communist', 'party', 'of') 	 8
+('by', 'domenico', 'losurdo') 	 8
+('people', 'with', 'disabilities') 	 8
+('today', 'is', 'the') 	 7
+4 Pair
+('on', 'this', 'day', 'in') 	 14
+('by', 'alfred', 'w', 'mccoy') 	 5
+('by', 'peter', 'dale', 'scott') 	 4
+('of', 'the', 'soviet', 'union') 	 4
+('according', 'to', 'their', 'ability') 	 3
+('communist', 'party', 'of', 'turkey') 	 3
+('were', 'here', 'for', 'you') 	 3
+('the', 'homeless', 'workers', 'movement') 	 3
+('to', 'their', 'ability', 'to') 	 3
+('homeless', 'workers', 'movement', 'mtst') 	 3
+
+
+republican.txt
+2 Pair
+('president', 'trump') 	 8
+('ilhan', 'omar') 	 7
+('new', 'deal') 	 6
+('want', 'to') 	 6
+('green', 'new') 	 6
+('more', 'than') 	 6
+('a', 'republican') 	 6
+('planned', 'parenthood') 	 6
+('people', 'who') 	 6
+('border', 'wall') 	 6
+3 Pair
+('green', 'new', 'deal') 	 6
+('thought', 'you', 'guys') 	 3
+('planned', 'parenthood', '') 	 3
+('people', 'who', 'think') 	 3
+('the', 'green', 'new') 	 3
+('you', 'guys', 'might') 	 3
+('the', 'republican', 'party') 	 3
+('this', 'is', 'the') 	 3
+('the', 'state', 'of') 	 3
+('why', 'aren’t', 'we') 	 3
+4 Pair
+('the', 'green', 'new', 'deal') 	 3
+('thought', 'you', 'guys', 'might') 	 3
+('percent', 'tax', 'on', 'the') 	 2
+('you', 'guys', 'might', 'get') 	 2
+('the', 'state', 'of', 'california') 	 2
+('a', 'lot', 'of', 'the') 	 2
+('aren’t', 'we', 'all', 'outraged') 	 2
+('all', 'outraged', 'about', 'healthcare') 	 2
+('take', 'a', 'look', 'at') 	 2
+('industry', 'reaches', 'nearly', '18') 	 2
+
+
+the_donald.txt
+2 Pair
+('hate', 'crime') 	 29
+('campaign', 'promise') 	 28
+('clinton', 'foundation') 	 27
+('crime', 'hate') 	 26
+('the', 'clinton') 	 24
+('trump', 'has') 	 22
+('you', 'are') 	 22
+('going', 'to') 	 21
+('donald', 'trump') 	 21
+('seth', 'rich') 	 21
+3 Pair
+('crime', 'hate', 'crime') 	 26
+('hate', 'crime', 'hate') 	 26
+('the', 'clinton', 'foundation') 	 20
+('the', 'front', 'page') 	 16
+('donald', 'j', 'trump') 	 13
+('a', 'shame', 'if') 	 13
+('went', 'too', 'far') 	 10
+('to', 'the', 'top') 	 10
+('shame', 'if', 'this') 	 10
+('be', 'a', 'shame') 	 10
+4 Pair
+('hate', 'crime', 'hate', 'crime') 	 26
+('crime', 'hate', 'crime', 'hate') 	 25
+('be', 'a', 'shame', 'if') 	 10
+('a', 'shame', 'if', 'this') 	 10
+('you', 'went', 'too', 'far') 	 9
+('would', 'be', 'a', 'shame') 	 8
+('of', 'the', 'united', 'states') 	 8
+('president', 'of', 'the', 'united') 	 7
+('make', 'america', 'great', 'again') 	 7
+('went', 'too', 'far', 'on') 	 7
+
+
+libertarian.txt
+2 Pair
+('a', 'nutshell') 	 7
+('rand', 'paul') 	 7
+('ron', 'paul') 	 6
+('hillary', 'clinton') 	 6
+('nutshell', '') 	 6
+('how', 'to') 	 5
+('donald', 'trump') 	 5
+('government', '') 	 5
+('a', 'libertarian') 	 5
+('when', 'you') 	 5
+3 Pair
+('in', 'a', 'nutshell') 	 7
+('a', 'nutshell', '') 	 6
+('naked', 'truth', 'about') 	 4
+('i', 'am', 'free') 	 3
+('the', 'drug', 'war') 	 3
+('i', 'think', 'this') 	 3
+('ron', 'paul', '') 	 3
+('the', 'libertarian', 'way') 	 2
+('the', 'state', 'always') 	 2
+('constitution', 'is', 'a') 	 2
+4 Pair
+('in', 'a', 'nutshell', '') 	 6
+('to', 'cross', 'the', 'border') 	 2
+('the', 'state', 'always', 'supports') 	 2
+('truth', 'about', 'equality', '') 	 2
+('gimme', 'my', 'free', 'stuff') 	 2
+('hard', 'naked', 'truth', 'about') 	 2
+('the', 'constitution', 'is', 'a') 	 2
+('the', 'naked', 'truth', 'about') 	 2
+('the', 'party', 'on', 'the') 	 2
+('with', 'a', 'crime', '') 	 2
+
+
+progun.txt
+2 Pair
+('gun', 'control') 	 30
+('a', 'gun') 	 17
+('second', 'amendment') 	 13
+('gun', 'rights') 	 12
+('gun', 'owners') 	 11
+('2nd', 'amendment') 	 9
+('ban', '') 	 7
+('the', 'second') 	 7
+('the', '2nd') 	 7
+('give', 'up') 	 7
+3 Pair
+('a', 'gun', '') 	 6
+('the', 'second', 'amendment') 	 6
+('the', '2nd', 'amendment') 	 6
+('dicks', 'sporting', 'goods') 	 5
+('with', 'a', 'gun') 	 5
+('of', 'american', 'households') 	 4
+('in', 'support', 'of') 	 4
+('die', 'per', 'year') 	 3
+('the', 'antigun', 'movement') 	 3
+('gun', 'control', 'in') 	 3
+4 Pair
+('give', 'up', 'their', 'guns') 	 3
+('people', 'die', 'per', 'year') 	 3
+('of', 'the', 'second', 'amendment') 	 3
+('going', 'to', 'give', 'up') 	 2
+('venezuelans', 'regret', 'gun', 'ban') 	 2
+('with', 'a', 'gun', '') 	 2
+('at', 'active', 'shooter', 'events') 	 2
+('it', 'turns', 'out', 'that') 	 2
+('truth', 'about', 'guns', '') 	 2
+('firearms', 'for', 'selfdefense', '') 	 2
